@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Calders Flamingo Chicago](https://raw.githubusercontent.com/sfmoe/sfmoe/main/street-sfmoe.jpg) 
- *Calders Flamingo Chicago*
+[![Calders Flamingo Chicago](https://raw.githubusercontent.com/sfmoe/sfmoe/main/street-sfmoe.jpg)](https://moemartinez.com/portfolio/street)
 <!-- photos ends -->
 
 <!--
