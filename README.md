@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!-- photos starts -->
+[![Calders Flamingo Chicago](https://raw.githubusercontent.com/sfmoe/sfmoe/main/street-sfmoe.jpg) 
+ *Calders Flamingo Chicago*
+<!-- photos ends -->
+
 <!--
 **sfmoe/sfmoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
