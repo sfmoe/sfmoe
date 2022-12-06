@@ -9,7 +9,8 @@
 I am a Chicago based photographer, front-end engineer, maker and creative. I have photographed for jalopnik.com, Columbia College, various real estate firms, Chrysler as well as models, actors, and musicians. As an engineer I have been developing full time since 2011 but have been making websites in a freelance capacity since the early 2000s, I'm currently looking for opportunities to work with technologies like React, Angular, Vue, Next.js or similar.
 
 
-### ⚡️ How to reach me: 
+### ⚡️ How to find me: 
+- [Github](https://github.com/sfmoe)
 - [Website](https://moemartinez.com)
 - [Links](https://sfmoe.com)
 
